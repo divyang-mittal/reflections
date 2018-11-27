@@ -1,1 +1,2 @@
 .git file is made when a repository is initialized
+staging area gives more control while commiting files
