@@ -1,0 +1,1 @@
+.git file is made when a repository is initialized

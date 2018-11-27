@@ -1,0 +1,9 @@
+simple and short helps to find exact line number
+can learn from mistakes
+free from any boundations can commit any time
+have to remember to commit
+these files are interdependent on each other
+type git log to view history
+type git diff file_1 file_2 to get difference
+with vcs i can easily find bugs
+to easily workout projects
